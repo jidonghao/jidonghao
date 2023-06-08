@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,vue,vite,nodejs,mysql,linux,vim,arduino,androidstudio,idea,ps,pr" />
   </a>
