@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎂 I'm currently 20 years old.
 - 📫 Contact me: ji534@outlook.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Transitioned from coding for search engines to coding for GPT.
+- ⚡ Fun: Transitioned from coding for search engines to coding for GPT.
 
 ## My Skills
 
