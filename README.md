@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jidonghao&langs_count=3&hide=html,css,less)
 
-⭐️ From @jidonghao
