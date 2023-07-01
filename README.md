@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,vite,nodejs,mysql,linux,vim,arduino,androidstudio,idea,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=js,vue,nodejs,mysql,linux,vim,arduino,androidstudio,ps" />
   </a>
 </p>
 
