@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💼 I'm currently a front-end developer, and also a full-stack engineer.
 - 💻 My tech stack includes Vue, UniApp, Node.js, Express.js, etc.
-- 🌱 I'm currently learning other front-end frameworks.
+- 🌱 I'm currently learning React.
 - 🎂 I'm currently 20 years old.
 - 📫 Contact me: ji534@outlook.com.
 - 😄 Pronouns: He/Him.
