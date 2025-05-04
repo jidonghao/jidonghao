@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💼 I'm currently a front-end developer, and also a full-stack engineer.
 - 💻 My tech stack includes Vue, UniApp, Node.js, Express.js, etc.
 - 🌱 I'm currently learning React.
-- 🎂 I'm currently 22 years old.
+- 🎂 I'm currently 23 years old.
 - 📫 Contact me: ji534@outlook.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun: Transitioned from coding for search engines to coding for GPT.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vue,nodejs,mysql,java,react,linux,arduino,ps,nginx,jenkins" />
+    <img src="https://skillicons.dev/icons?i=js,java,vue,springboot" />
   </a>
 </p>
 
