@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,vue,springboot" />
+    <img src="https://skillicons.dev/icons?i=js,java,vue,spring" />
   </a>
 </p>
 
