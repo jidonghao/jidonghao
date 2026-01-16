@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello, I'm Donghao 👋 
 
 - 💼 I'm currently a front-end developer, and also a full-stack engineer.
-- 💻 My tech stack includes Vue, UniApp, Node.js, Express.js, etc.
+- 💻 My tech stack includes Vue, SpringBoot, etc.
 - 🌱 I'm currently learning React.
 - 🎂 I'm currently 24 years old.
 - 📫 Contact me: ji534@outlook.com.
